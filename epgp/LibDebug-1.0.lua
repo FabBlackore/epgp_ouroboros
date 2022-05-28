@@ -1,5 +1,4 @@
--- A library to use for Debug information that provides a central way-- A library to use for Debug information that provides a central way-- A library to use for Debug information that provides a central way
--- to enable/disable debugging on a special debug frame.
+-- A library to use for Debug information that provides a central way
 
 local MAJOR_VERSION = "LibDebug-1.0"
 local MINOR_VERSION = tonumber(("$Revision: 1023 $"):match("%d+")) or 0
